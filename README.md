@@ -43,3 +43,26 @@ node return-btc.js
 ```
 
 After decoding ( https://live.blockcypher.com/btc/decodetx/ ) the txn's hex and verifying that it is doing what it should, copy and paste the hex in the form at https://blockstream.info/tx/push and click on the "Broadcast transaction" button
+
+````jsx
+<CodeGroup title="Code Sample" tag="post" label="/kmd/jwt/post" >
+
+```ts
+// ...
+```
+
+```python
+
+// ...
+
+```
+
+```php
+
+// ...
+
+```
+
+</CodeGroup>
+
+````
